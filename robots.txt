@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /backend/
+
+Sitemap: https://www.drndsknowledgehub.com/sitemap.xml
