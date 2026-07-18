@@ -2703,3 +2703,16 @@ padding:35px;
     border-bottom:none;
 
 }
+
+.policy-highlight{
+    background:#f8fbff;
+    border-left:5px solid #1E40AF;
+    padding:25px;
+    margin:30px 0;
+    border-radius:12px;
+}
+
+.policy-highlight h3{
+    margin-bottom:15px;
+    color:#1E3A8A;
+}
